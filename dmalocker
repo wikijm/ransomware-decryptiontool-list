@@ -1,0 +1,14 @@
+Author: Hasherazade
+Date: 02/2016
+Article: https://hshrzd.wordpress.com/dma-unlocker/
+Tool: 
+    DMA Locker Variant#1  (from 8-th Feb) – most common type :
+        https://drive.google.com/file/d/0Bzb5kQFOXkiSb3FWUDAzYUFaWUE/view?usp=sharing (DMA.exe md5=9cab5ad02b2b158e7fecf13f9f3f3626)
+        sample locks:
+            DMALOCK 43:41:90:35:25:13:61:92
+            DMALOCK 48:30:40:04:91:15:43:78
+    DMA Locker Variant#2 (form 15-th Feb)
+        https://drive.google.com/file/d/0Bzb5kQFOXkiSNmZtNXo5c0ZIaG8/view?usp=sharing (DMA.exe md5=a46a0f5bb6ed5e944c06071fed640550)
+        sample locks:
+            DMALOCK 49:01:51:78:91:63:36:84
+            DMALOCK 41:11:11:84:32:13:64:68
